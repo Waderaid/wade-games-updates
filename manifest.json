@@ -1,61 +1,61 @@
 {
-  "apps": [
-    {
-      "name": "Nexus Arcade MUSE iPhone",
-      "package": "com.brioagent.nexusarcade",
-      "sha256": "2fbb7c36c90ca2ff4e177f11f7b59b7a1fa6043859a166beb47a3efd36222718",
-      "url": "https://gofile.io/d/Yosn4Ewr",
-      "version": "0.6.6",
-      "versionCode": 12
-    },
-    {
-      "name": "Wonder Room MUSE iPhone",
-      "package": "com.wonderroom.play",
-      "sha256": "f9e73dc37082e5b17f165b49c467efd4b9ea34d3fdab1a8aa855c96395589ea0",
-      "url": "https://files.catbox.moe/w9n30e.apk",
-      "version": "4.1",
-      "versionCode": 6
-    },
-    {
-      "name": "Aqua Reef MUSE iPhone",
-      "package": "com.aquareef.showcase",
-      "sha256": "8f35f7275c82409693fe9c925e585e1b2fc8df9fa280aa4e5c41cbb5ad278f30",
-      "url": "https://files.catbox.moe/js7t4n.apk",
-      "version": "4.1",
-      "versionCode": 6
-    },
-    {
-      "name": "Stark Lab MUSE iPhone",
-      "package": "com.starklab.ar",
-      "sha256": "a731dd81298cefafdbf9617f4aca15159ba4f96a603ab1653e329ef5edb3f644",
-      "url": "https://files.catbox.moe/81u0o4.apk",
-      "version": "5.1",
-      "versionCode": 7
-    },
-    {
-      "name": "Orbit Theater MUSE iPhone",
-      "package": "com.orbittheater.player",
-      "sha256": "0376b3b57cfc5471b047ec32a7907d142039de11b6c7389477c1846f3ba8c036",
-      "url": "https://files.catbox.moe/shqbim.apk",
-      "version": "2.4",
-      "versionCode": 6
-    },
-    {
-      "name": "PRISM MUSE iPhone",
-      "package": "com.prism.showcase",
-      "sha256": "8aa5bc22eb089940f9380635d53c3292e2a46d0dc2874860b824f19b9d7a9f19",
-      "url": "https://files.catbox.moe/mrmd5q.apk",
-      "version": "1.1",
-      "versionCode": 2
-    },
-    {
-      "name": "Wade's Games MUSE iPhone",
-      "package": "com.wade.games",
-      "sha256": "639e45ebeaa3ac2c9667ccf4e1e83cb155e82cc8107c5553db344870baae7592",
-      "url": "https://gofile.io/d/hAuZLDnX",
-      "version": "2.4",
-      "versionCode": 6,
-      "notes": "Bundled release: all 6 renamed games included (279MB). v2.4: new launcher icon."
-    }
-  ]
+ "apps": [
+  {
+   "name": "Nexus Arcade MUSE iPhone",
+   "package": "com.brioagent.nexusarcade",
+   "sha256": "2fbb7c36c90ca2ff4e177f11f7b59b7a1fa6043859a166beb47a3efd36222718",
+   "url": "https://gofile.io/d/Yosn4Ewr",
+   "version": "0.6.6",
+   "versionCode": 12
+  },
+  {
+   "name": "Wonder Room MUSE iPhone",
+   "package": "com.wonderroom.play",
+   "sha256": "57c6b403d4d73d97dde11ba4821c989199ffddc0b5d5f4dcf0cdcae476751f3f",
+   "url": "https://files.catbox.moe/8j08ao.apk",
+   "version": "4.2",
+   "versionCode": 7
+  },
+  {
+   "name": "Aqua Reef MUSE iPhone",
+   "package": "com.aquareef.showcase",
+   "sha256": "8f35f7275c82409693fe9c925e585e1b2fc8df9fa280aa4e5c41cbb5ad278f30",
+   "url": "https://files.catbox.moe/js7t4n.apk",
+   "version": "4.1",
+   "versionCode": 6
+  },
+  {
+   "name": "Stark Lab MUSE iPhone",
+   "package": "com.starklab.ar",
+   "sha256": "a731dd81298cefafdbf9617f4aca15159ba4f96a603ab1653e329ef5edb3f644",
+   "url": "https://files.catbox.moe/81u0o4.apk",
+   "version": "5.1",
+   "versionCode": 7
+  },
+  {
+   "name": "Orbit Theater MUSE iPhone",
+   "package": "com.orbittheater.player",
+   "sha256": "0376b3b57cfc5471b047ec32a7907d142039de11b6c7389477c1846f3ba8c036",
+   "url": "https://files.catbox.moe/shqbim.apk",
+   "version": "2.4",
+   "versionCode": 6
+  },
+  {
+   "name": "PRISM MUSE iPhone",
+   "package": "com.prism.showcase",
+   "sha256": "8aa5bc22eb089940f9380635d53c3292e2a46d0dc2874860b824f19b9d7a9f19",
+   "url": "https://files.catbox.moe/mrmd5q.apk",
+   "version": "1.1",
+   "versionCode": 2
+  },
+  {
+   "name": "Wade's Games MUSE iPhone",
+   "package": "com.wade.games",
+   "sha256": "639e45ebeaa3ac2c9667ccf4e1e83cb155e82cc8107c5553db344870baae7592",
+   "url": "https://gofile.io/d/hAuZLDnX",
+   "version": "2.4",
+   "versionCode": 6,
+   "notes": "Bundled release: all 6 renamed games included (279MB). v2.4: new launcher icon."
+  }
+ ]
 }
