@@ -51,11 +51,11 @@
     {
       "name": "Wade's Games",
       "package": "com.wade.games",
-      "sha256": "b90d5d313bc43edbb26a7842cb34bcc2872ab680f682df2f9bbc9a9dbc92d324",
-      "url": "https://gofile.io/d/qz7RPvDQ",
-      "version": "2.1",
-      "versionCode": 3,
-      "notes": "Bundled release: all 6 games included (Nexus Arcade v0.6.5). Download page link; open in browser."
+      "sha256": "5b4773e2dd845fa5a164d239dffd4274dd305fc4619637be0e7c145fbfdc4015",
+      "url": "https://gofile.io/d/bHoNVPsS",
+      "version": "2.2",
+      "versionCode": 4,
+      "notes": "Bundled release: all 6 games included (279MB, Stark Lab v5.0 inside). Download page link; open in browser."
     }
   ]
 }
