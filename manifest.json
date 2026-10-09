@@ -51,11 +51,11 @@
     {
       "name": "Wade's Games",
       "package": "com.wade.games",
-      "sha256": "eb46f3d1becb86de3df4eaadd1ebe6837a94c8dc53469bb952b5db1545842a4a",
-      "url": "https://gofile.io/d/1H81XfO2",
-      "version": "2.0",
-      "versionCode": 2,
-      "notes": "Bundled release: all 6 games included in the APK (281MB). Download page link; open in browser."
+      "sha256": "b90d5d313bc43edbb26a7842cb34bcc2872ab680f682df2f9bbc9a9dbc92d324",
+      "url": "https://gofile.io/d/qz7RPvDQ",
+      "version": "2.1",
+      "versionCode": 3,
+      "notes": "Bundled release: all 6 games included (Nexus Arcade v0.6.5). Download page link; open in browser."
     }
   ]
 }
