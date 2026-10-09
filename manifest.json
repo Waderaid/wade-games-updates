@@ -51,11 +51,11 @@
     {
       "name": "Wade's Games MUSE iPhone",
       "package": "com.wade.games",
-      "sha256": "606441cac49e9526c9093391c686f8c810548a7c06b136a6345457303c767f24",
-      "url": "https://gofile.io/d/fochuGkF",
-      "version": "2.3",
-      "versionCode": 5,
-      "notes": "Bundled release: all 6 renamed games included (279MB). Download page link; open in browser."
+      "sha256": "639e45ebeaa3ac2c9667ccf4e1e83cb155e82cc8107c5553db344870baae7592",
+      "url": "https://gofile.io/d/hAuZLDnX",
+      "version": "2.4",
+      "versionCode": 6,
+      "notes": "Bundled release: all 6 renamed games included (279MB). v2.4: new launcher icon."
     }
   ]
 }
