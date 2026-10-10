@@ -51,11 +51,11 @@
     {
       "name": "Wade's Games MUSE iPhone",
       "package": "com.wade.games",
-      "sha256": "f069e2361a1cf148d6686c872d305dab0aefab901cd2e18588149c855a5274cb",
-      "url": "https://gofile.io/d/MfxGtfgn",
-      "version": "2.7",
-      "versionCode": 9,
-      "notes": "Bundled release: all 6 fixed games included (282MB). v2.7: Stark Lab v5.3, Wonder Room v4.3, Aqua Reef v4.3, Orbit Theater v2.6, PRISM v1.3, Nexus Arcade v0.6.8. Updater rework: receiver-independent finish (no more silent stuck downloads), 90s stall watchdog with auto-retry, single-file launcher update as primary path, first-run auto-install-all, version read from package (never stale)."
+      "sha256": "3a93bac55d3441ea9c7d74322110e6580fbb356dbd9d88fb89f77004ce4f4db3",
+      "url": "https://gofile.io/d/neC302n7",
+      "version": "2.8",
+      "versionCode": 10,
+      "notes": "Bundled release: all 6 hidden-from-library games included (282MB). v2.8: games rebuilt without LAUNCHER category (Stark Lab v5.4, Wonder Room v4.4, Aqua Reef v4.4, Orbit Theater v2.7, PRISM v1.4, Nexus Arcade v0.6.9) - launcher opens each via explicit intent (Nexus via its exported GodotAppLauncher alias); first-run auto-install now also updates outdated installs to the hidden builds."
     }
   ]
 }
