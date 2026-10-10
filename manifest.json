@@ -51,11 +51,11 @@
   {
    "name": "Wade's Games MUSE iPhone",
    "package": "com.wade.games",
-   "sha256": "639e45ebeaa3ac2c9667ccf4e1e83cb155e82cc8107c5553db344870baae7592",
-   "url": "https://gofile.io/d/hAuZLDnX",
-   "version": "2.4",
-   "versionCode": 6,
-   "notes": "Bundled release: all 6 renamed games included (279MB). v2.4: new launcher icon."
+   "sha256": "3bd602e4bbc2f47ec6e13271e71924f86bf4bc81510a6eaf8db332147a2ca883",
+   "url": "https://gofile.io/d/gYk7Kxcc",
+   "version": "2.5",
+   "versionCode": 7,
+   "notes": "Bundled release: all 6 renamed games included (282MB). v2.5: Stark Lab v5.2, Wonder Room v4.2, Aqua Reef v4.2, Orbit Theater v2.5, PRISM v1.2, Nexus Arcade v0.6.7."
   }
  ]
 }
