@@ -3,50 +3,50 @@
     {
       "name": "Nexus Arcade MUSE iPhone",
       "package": "com.brioagent.nexusarcade",
-      "sha256": "7a60962f925b11448b8a35a3ff043b3a1e63aba593f0800115cbc8c0c22cd9d2",
-      "url": "https://files.catbox.moe/2o3rw4.apk",
-      "version": "0.6.8",
-      "versionCode": 14
+      "sha256": "45ca3631a65740bfe987d0d1fd85eaf761d3342d4d9b9865818f5c327035f818",
+      "url": "https://files.catbox.moe/yz9lmu.apk",
+      "version": "0.6.9",
+      "versionCode": 15
     },
     {
       "name": "Wonder Room MUSE iPhone",
       "package": "com.wonderroom.play",
-      "sha256": "322b588f06c581fc9bf2918b77bc9d8d3e132d449c8581c0471e1fab141a4da3",
-      "url": "https://files.catbox.moe/6j6vva.apk",
-      "version": "4.3",
-      "versionCode": 8
+      "sha256": "b14ae461ab3e84a2b0c1851433aab377b83849b1699fab916b6752559813947d",
+      "url": "https://files.catbox.moe/0fdhpc.apk",
+      "version": "4.4",
+      "versionCode": 9
     },
     {
       "name": "Aqua Reef MUSE iPhone",
       "package": "com.aquareef.showcase",
-      "sha256": "d95c2da906e73b9f21e813756079457a197bb64df1a9b5fd448061fafdabdb1e",
-      "url": "https://files.catbox.moe/6poeqd.apk",
-      "version": "4.3",
-      "versionCode": 8
+      "sha256": "a4068849ec524fcadb1361c0321e0868b127e2fb0bade9ef1599bbe2507990b2",
+      "url": "https://files.catbox.moe/c5i606.apk",
+      "version": "4.4",
+      "versionCode": 9
     },
     {
       "name": "Stark Lab MUSE iPhone",
       "package": "com.starklab.ar",
-      "sha256": "cb1826cc9f14e02b4935dfec576d1bfc966b2a5fea4edb4577009fbfce23dd56",
-      "url": "https://files.catbox.moe/kpi4u0.apk",
-      "version": "5.3",
-      "versionCode": 9
+      "sha256": "4e40d96bf174e536db40e90f407dcca59fbdf9bbd6969216de3f5fedc45e7bca",
+      "url": "https://files.catbox.moe/tba4co.apk",
+      "version": "5.4",
+      "versionCode": 10
     },
     {
       "name": "Orbit Theater MUSE iPhone",
       "package": "com.orbittheater.player",
-      "sha256": "2473d9df4996a11e26910fac98b5777ebc06ac08f7c4064d82ba95f3dcd2d649",
-      "url": "https://files.catbox.moe/wfygdi.apk",
-      "version": "2.6",
-      "versionCode": 8
+      "sha256": "18243733f7701fa1e4036c4d1ec86b2372c6f7a363db802636aa05b4949732fb",
+      "url": "https://files.catbox.moe/aw35hg.apk",
+      "version": "2.7",
+      "versionCode": 9
     },
     {
       "name": "PRISM MUSE iPhone",
       "package": "com.prism.showcase",
-      "sha256": "2ea81d5bad94f55032d5eeb117941bbf9d6f74390c70694810f7cca68dc84529",
-      "url": "https://files.catbox.moe/c12ute.apk",
-      "version": "1.3",
-      "versionCode": 4
+      "sha256": "a5282a3b6b329073404c110ef523b0623bda6a1d5ac835228af868f5b6eb13f5",
+      "url": "https://files.catbox.moe/9gckaw.apk",
+      "version": "1.4",
+      "versionCode": 5
     },
     {
       "name": "Wade's Games MUSE iPhone",
