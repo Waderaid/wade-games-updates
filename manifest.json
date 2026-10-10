@@ -1,61 +1,61 @@
 {
- "apps": [
-  {
-   "name": "Nexus Arcade MUSE iPhone",
-   "package": "com.brioagent.nexusarcade",
-   "sha256": "7a60962f925b11448b8a35a3ff043b3a1e63aba593f0800115cbc8c0c22cd9d2",
-   "url": "https://files.catbox.moe/2o3rw4.apk",
-   "version": "0.6.8",
-   "versionCode": 14
-  },
-  {
-   "name": "Wonder Room MUSE iPhone",
-   "package": "com.wonderroom.play",
-   "sha256": "57c6b403d4d73d97dde11ba4821c989199ffddc0b5d5f4dcf0cdcae476751f3f",
-   "url": "https://files.catbox.moe/8j08ao.apk",
-   "version": "4.2",
-   "versionCode": 7
-  },
-  {
-   "name": "Aqua Reef MUSE iPhone",
-   "package": "com.aquareef.showcase",
-   "sha256": "1453bb751174b69809371be867ce7eb21d87cc675e8eb35ed669a98db97e01b5",
-   "url": "https://files.catbox.moe/hejdhw.apk",
-   "version": "4.2",
-   "versionCode": 7
-  },
-  {
-   "name": "Stark Lab MUSE iPhone",
-   "package": "com.starklab.ar",
-   "sha256": "6fe1816ec7f4f3df16ffdf8fece808a925e45b52c82f576fb039a7c6954b5555",
-   "url": "https://files.catbox.moe/75inga.apk",
-   "version": "5.2",
-   "versionCode": 8
-  },
-  {
-   "name": "Orbit Theater MUSE iPhone",
-   "package": "com.orbittheater.player",
-   "sha256": "4cddd38361b746ba52833a6c2041cf75c2b0eb5dd29276d2b79eb3757eda6078",
-   "url": "https://files.catbox.moe/n74no3.apk",
-   "version": "2.5",
-   "versionCode": 7
-  },
-  {
-   "name": "PRISM MUSE iPhone",
-   "package": "com.prism.showcase",
-   "sha256": "1e3f090260146b562c3d33c9e373e5566585df76601f203c845e37c825e2c9c5",
-   "url": "https://files.catbox.moe/pqnpfl.apk",
-   "version": "1.2",
-   "versionCode": 3
-  },
-  {
-   "name": "Wade's Games MUSE iPhone",
-   "package": "com.wade.games",
-   "sha256": "3bd602e4bbc2f47ec6e13271e71924f86bf4bc81510a6eaf8db332147a2ca883",
-   "url": "https://gofile.io/d/gYk7Kxcc",
-   "version": "2.5",
-   "versionCode": 7,
-   "notes": "Bundled release: all 6 renamed games included (282MB). v2.5: Stark Lab v5.2, Wonder Room v4.2, Aqua Reef v4.2, Orbit Theater v2.5, PRISM v1.2, Nexus Arcade v0.6.7."
-  }
- ]
+  "apps": [
+    {
+      "name": "Nexus Arcade MUSE iPhone",
+      "package": "com.brioagent.nexusarcade",
+      "sha256": "7a60962f925b11448b8a35a3ff043b3a1e63aba593f0800115cbc8c0c22cd9d2",
+      "url": "https://files.catbox.moe/2o3rw4.apk",
+      "version": "0.6.8",
+      "versionCode": 14
+    },
+    {
+      "name": "Wonder Room MUSE iPhone",
+      "package": "com.wonderroom.play",
+      "sha256": "322b588f06c581fc9bf2918b77bc9d8d3e132d449c8581c0471e1fab141a4da3",
+      "url": "https://files.catbox.moe/6j6vva.apk",
+      "version": "4.3",
+      "versionCode": 8
+    },
+    {
+      "name": "Aqua Reef MUSE iPhone",
+      "package": "com.aquareef.showcase",
+      "sha256": "d95c2da906e73b9f21e813756079457a197bb64df1a9b5fd448061fafdabdb1e",
+      "url": "https://files.catbox.moe/6poeqd.apk",
+      "version": "4.3",
+      "versionCode": 8
+    },
+    {
+      "name": "Stark Lab MUSE iPhone",
+      "package": "com.starklab.ar",
+      "sha256": "cb1826cc9f14e02b4935dfec576d1bfc966b2a5fea4edb4577009fbfce23dd56",
+      "url": "https://files.catbox.moe/kpi4u0.apk",
+      "version": "5.3",
+      "versionCode": 9
+    },
+    {
+      "name": "Orbit Theater MUSE iPhone",
+      "package": "com.orbittheater.player",
+      "sha256": "2473d9df4996a11e26910fac98b5777ebc06ac08f7c4064d82ba95f3dcd2d649",
+      "url": "https://files.catbox.moe/wfygdi.apk",
+      "version": "2.6",
+      "versionCode": 8
+    },
+    {
+      "name": "PRISM MUSE iPhone",
+      "package": "com.prism.showcase",
+      "sha256": "2ea81d5bad94f55032d5eeb117941bbf9d6f74390c70694810f7cca68dc84529",
+      "url": "https://files.catbox.moe/c12ute.apk",
+      "version": "1.3",
+      "versionCode": 4
+    },
+    {
+      "name": "Wade's Games MUSE iPhone",
+      "package": "com.wade.games",
+      "sha256": "3bd602e4bbc2f47ec6e13271e71924f86bf4bc81510a6eaf8db332147a2ca883",
+      "url": "https://gofile.io/d/gYk7Kxcc",
+      "version": "2.5",
+      "versionCode": 7,
+      "notes": "Bundled release: all 6 renamed games included (282MB). v2.5: Stark Lab v5.2, Wonder Room v4.2, Aqua Reef v4.2, Orbit Theater v2.5, PRISM v1.2, Nexus Arcade v0.6.7."
+    }
+  ]
 }
