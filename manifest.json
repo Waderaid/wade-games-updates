@@ -1,61 +1,61 @@
 {
-    "apps": [
-        {
-            "name": "Nexus Arcade MUSE iPhone",
-            "package": "com.brioagent.nexusarcade",
-            "sha256": "7a60962f925b11448b8a35a3ff043b3a1e63aba593f0800115cbc8c0c22cd9d2",
-            "url": "https://files.catbox.moe/2o3rw4.apk",
-            "version": "0.6.8",
-            "versionCode": 14
-        },
-        {
-            "name": "Wonder Room MUSE iPhone",
-            "package": "com.wonderroom.play",
-            "sha256": "322b588f06c581fc9bf2918b77bc9d8d3e132d449c8581c0471e1fab141a4da3",
-            "url": "https://files.catbox.moe/6j6vva.apk",
-            "version": "4.3",
-            "versionCode": 8
-        },
-        {
-            "name": "Aqua Reef MUSE iPhone",
-            "package": "com.aquareef.showcase",
-            "sha256": "d95c2da906e73b9f21e813756079457a197bb64df1a9b5fd448061fafdabdb1e",
-            "url": "https://files.catbox.moe/6poeqd.apk",
-            "version": "4.3",
-            "versionCode": 8
-        },
-        {
-            "name": "Stark Lab MUSE iPhone",
-            "package": "com.starklab.ar",
-            "sha256": "cb1826cc9f14e02b4935dfec576d1bfc966b2a5fea4edb4577009fbfce23dd56",
-            "url": "https://files.catbox.moe/kpi4u0.apk",
-            "version": "5.3",
-            "versionCode": 9
-        },
-        {
-            "name": "Orbit Theater MUSE iPhone",
-            "package": "com.orbittheater.player",
-            "sha256": "2473d9df4996a11e26910fac98b5777ebc06ac08f7c4064d82ba95f3dcd2d649",
-            "url": "https://files.catbox.moe/wfygdi.apk",
-            "version": "2.6",
-            "versionCode": 8
-        },
-        {
-            "name": "PRISM MUSE iPhone",
-            "package": "com.prism.showcase",
-            "sha256": "2ea81d5bad94f55032d5eeb117941bbf9d6f74390c70694810f7cca68dc84529",
-            "url": "https://files.catbox.moe/c12ute.apk",
-            "version": "1.3",
-            "versionCode": 4
-        },
-        {
-            "name": "Wade's Games MUSE iPhone",
-            "package": "com.wade.games",
-            "sha256": "425ad3b2410ce77c34ab0d6f498a236f2989bbacfc1210212148ad5f9c09fb4b",
-            "url": "https://gofile.io/d/DvUu0t5M",
-            "version": "2.6",
-            "versionCode": 8,
-            "notes": "Bundled release: all 6 fixed games included (282MB). v2.6: Stark Lab v5.3, Wonder Room v4.3, Aqua Reef v4.3, Orbit Theater v2.6, PRISM v1.3, Nexus Arcade v0.6.8. Fixes: update-check dialog no longer stalls on HEAD size probes; gofile share-page self-update opens in browser."
-        }
-    ]
+  "apps": [
+    {
+      "name": "Nexus Arcade MUSE iPhone",
+      "package": "com.brioagent.nexusarcade",
+      "sha256": "7a60962f925b11448b8a35a3ff043b3a1e63aba593f0800115cbc8c0c22cd9d2",
+      "url": "https://files.catbox.moe/2o3rw4.apk",
+      "version": "0.6.8",
+      "versionCode": 14
+    },
+    {
+      "name": "Wonder Room MUSE iPhone",
+      "package": "com.wonderroom.play",
+      "sha256": "322b588f06c581fc9bf2918b77bc9d8d3e132d449c8581c0471e1fab141a4da3",
+      "url": "https://files.catbox.moe/6j6vva.apk",
+      "version": "4.3",
+      "versionCode": 8
+    },
+    {
+      "name": "Aqua Reef MUSE iPhone",
+      "package": "com.aquareef.showcase",
+      "sha256": "d95c2da906e73b9f21e813756079457a197bb64df1a9b5fd448061fafdabdb1e",
+      "url": "https://files.catbox.moe/6poeqd.apk",
+      "version": "4.3",
+      "versionCode": 8
+    },
+    {
+      "name": "Stark Lab MUSE iPhone",
+      "package": "com.starklab.ar",
+      "sha256": "cb1826cc9f14e02b4935dfec576d1bfc966b2a5fea4edb4577009fbfce23dd56",
+      "url": "https://files.catbox.moe/kpi4u0.apk",
+      "version": "5.3",
+      "versionCode": 9
+    },
+    {
+      "name": "Orbit Theater MUSE iPhone",
+      "package": "com.orbittheater.player",
+      "sha256": "2473d9df4996a11e26910fac98b5777ebc06ac08f7c4064d82ba95f3dcd2d649",
+      "url": "https://files.catbox.moe/wfygdi.apk",
+      "version": "2.6",
+      "versionCode": 8
+    },
+    {
+      "name": "PRISM MUSE iPhone",
+      "package": "com.prism.showcase",
+      "sha256": "2ea81d5bad94f55032d5eeb117941bbf9d6f74390c70694810f7cca68dc84529",
+      "url": "https://files.catbox.moe/c12ute.apk",
+      "version": "1.3",
+      "versionCode": 4
+    },
+    {
+      "name": "Wade's Games MUSE iPhone",
+      "package": "com.wade.games",
+      "sha256": "f069e2361a1cf148d6686c872d305dab0aefab901cd2e18588149c855a5274cb",
+      "url": "https://gofile.io/d/MfxGtfgn",
+      "version": "2.7",
+      "versionCode": 9,
+      "notes": "Bundled release: all 6 fixed games included (282MB). v2.7: Stark Lab v5.3, Wonder Room v4.3, Aqua Reef v4.3, Orbit Theater v2.6, PRISM v1.3, Nexus Arcade v0.6.8. Updater rework: receiver-independent finish (no more silent stuck downloads), 90s stall watchdog with auto-retry, single-file launcher update as primary path, first-run auto-install-all, version read from package (never stale)."
+    }
+  ]
 }
